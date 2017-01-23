@@ -1,2 +1,7 @@
 # askYP
-Twitter bot that responds to questions about products/services
+ConUHacks 2017 Twitter bot
+
+Dependencies: tweepy, NLTK
+
+
+APIs: twitter streaming API, yp places API 
